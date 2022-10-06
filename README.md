@@ -7,9 +7,11 @@ OBJECTIVE AND SCOPE
 1. To provide virtual view of the products.
 2. To provide rendering of the view in all directions.
 3. Not causing any hindrances when user changes the camera view.
-4. Provide the application for all types of devices.H
+4. Provide the application for all types of devices.
 
-WORKINGH CYCLE
+
+WORKING CYCLE
+
 
 ![image](https://user-images.githubusercontent.com/109847267/194370080-17acd8fd-c232-4e1c-8755-a1def21a49ef.png)
 
@@ -21,7 +23,6 @@ The application working on Marker-based tracking uses QR code for tracking an ob
  Hence, this application uses Marker-less Tracking for tracking of virtual objects.As in Marker-based Tracking the system recognizes the code to track the module, in the Marker-less Tracking the objects are tracked using QCAR algorithm of Tracker module. In this case, no such QR ode is required.
 
 
-![image](https://user-images.githubusercontent.com/109847267/194370080-17acd8fd-c232-4e1c-8755-a1def21a49ef.png)
 
 
 
