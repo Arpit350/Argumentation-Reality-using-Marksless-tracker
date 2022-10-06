@@ -7,7 +7,13 @@ OBJECTIVE AND SCOPE
 1. To provide virtual view of the products.
 2. To provide rendering of the view in all directions.
 3. Not causing any hindrances when user changes the camera view.
-4. Provide the application for all types of devices.
+4. Provide the application for all types of devices.H
+
+WORKINGH CYCLE
+
+![image](https://user-images.githubusercontent.com/109847267/194370080-17acd8fd-c232-4e1c-8755-a1def21a49ef.png)
+
+
 
 CONCLUSION
 
