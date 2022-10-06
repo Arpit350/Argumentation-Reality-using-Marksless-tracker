@@ -17,6 +17,8 @@ WORKING CYCLE
 
 
 
+
+
 CONCLUSION
 
 The application working on Marker-based tracking uses QR code for tracking an object . The QR code is placed in the environment where the user wishes to view the model. The application recognizes the code and then place the object on the code only. Carrying the code every time is not possible for the user.
